@@ -52,7 +52,13 @@ Here are some of the technologies and tools I love to work with:
 
 ### 📊 GitHub Stats
 
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akirusprod&show_icons=true&theme=radical)
+-->
+
+<div style="float: left; width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=akirusprod&show_icons=true&theme=radical" alt="Your GitHub stats" width="40%" />
+</div>
 
 <!--
 <div style="float: left; width: 50%;">
