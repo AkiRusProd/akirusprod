@@ -14,3 +14,59 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+Welcome to my GitHub profile! I'm passionate about ML. Here you'll find a collection of my projects, contributions, and explorations in the world of Machine Learning.
+
+### 🔭 Projects
+
+- [numpy-nn-model](https://github.com/AkiRusProd/numpy-nn-model): Сustom torch style machine learning framework with automatic differentiation implemented on numpy.
+- [numpy-diffusion](https://github.com/AkiRusProd/numpy-diffusion): Numpy Denoising Diffusion Probabilistic Model (DDPM) implementation
+- [numpy-transformer](https://github.com/AkiRusProd/numpy-transformer): Numpy implementation of the Transformer model in "Attention is All You Need".
+
+<!--
+### 🌱 Technologies
+
+I work with a range of technologies and tools, including:
+
+### Tech Stack
+
+Here are some of the technologies and tools I love to work with:
+
+- 💻 Programming Languages: [Languages]
+- 🌐 Web Technologies: [Web Technologies]
+- 📊 Databases: [Databases]
+- 🔧 Tools: [Tools]
+
+
+### 💡 Skills
+
+- [Skill 1]
+- [Skill 2]
+- [Skill 3]
+- [Skill 4]
+- [Skill 5]
+-->
+
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akirusprod&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akirusprod&theme=radical)
+
+<!--
+## 🏆 My GitHub Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+-->
+
+### 📫 Contact Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akirus/) or [Telegram](https://t.me/akimovr). I'm always open to interesting discussions, collaboration, and new opportunities!
+
+### 🌐 Website
+
+Check out my personal website [here](akirusprod.github.io) for more information about me and my projects.
+
