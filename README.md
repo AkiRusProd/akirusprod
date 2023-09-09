@@ -72,5 +72,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akirus/) 
 
 ### 🌐 Website
 
-Check out my personal website [here](akirusprod.github.io) for more information about me and my projects.
+Check out my personal website [here](https://akirusprod.github.io/) for more information about me and my projects.
 
