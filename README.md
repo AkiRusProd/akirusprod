@@ -1,4 +1,11 @@
-<img align = right src="https://github-readme-stats.vercel.app/api?username=akirusprod&show_icons=true&hide_border=false&theme=github_dark" alt="Your GitHub stats" width="40%" />
+<!-- <img align = right src="https://github-readme-stats.vercel.app/api?username=akirusprod&show_icons=true&hide_border=false&theme=github_dark#gh-dark-mode-only" alt="Your GitHub stats" width="40%" /> -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=akirusprod&show_icons=true&hide_border=false&theme=github_dark">
+  <img align = right alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akirusprod&show_icons=true&hide_border=false&theme=default" width = "40%">
+</picture>
+</a>
 
 ### Hi there 👋
 
