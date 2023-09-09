@@ -1,3 +1,5 @@
+<img align = right src="https://github-readme-stats.vercel.app/api?username=akirusprod&show_icons=true&theme=radical" alt="Your GitHub stats" width="40%" />
+
 ### Hi there 👋
 
 <!--
@@ -18,6 +20,8 @@ Here are some ideas to get you started:
 
 
 Welcome to my GitHub profile! I'm passionate about ML. Here you'll find a collection of my projects, contributions, and explorations in the world of Machine Learning.
+
+
 
 ### 🔭 Projects
 
@@ -50,15 +54,17 @@ Here are some of the technologies and tools I love to work with:
 -->
 
 
-### 📊 GitHub Stats
+
 
 <!--
+### 📊 GitHub Stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akirusprod&show_icons=true&theme=radical)
 -->
 
-<div style="float: left; width: 50%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=akirusprod&show_icons=true&theme=radical" alt="Your GitHub stats" width="40%" />
-</div>
+
+
+
 
 <!--
 <div style="float: left; width: 50%;">
