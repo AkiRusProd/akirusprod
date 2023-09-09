@@ -1,4 +1,4 @@
-<img align = right src="https://github-readme-stats.vercel.app/api?username=akirusprod&show_icons=true&theme=radical" alt="Your GitHub stats" width="40%" />
+<img align = right src="https://github-readme-stats.vercel.app/api?username=akirusprod&show_icons=true&hide_border=false&theme=github_dark" alt="Your GitHub stats" width="40%" />
 
 ### Hi there 👋
 
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about ML. Here you'll find a collec
 
 
 
-### 🔭 Projects
+#### 🔭 Projects
 
 - [numpy-nn-model](https://github.com/AkiRusProd/numpy-nn-model): Сustom torch style machine learning framework with automatic differentiation implemented on numpy.
 - [numpy-diffusion](https://github.com/AkiRusProd/numpy-diffusion): Numpy Denoising Diffusion Probabilistic Model (DDPM) implementation
@@ -44,7 +44,7 @@ Here are some of the technologies and tools I love to work with:
 - 🔧 Tools: [Tools]
 
 
-### 💡 Skills
+#### 💡 Skills
 
 - [Skill 1]
 - [Skill 2]
@@ -57,7 +57,7 @@ Here are some of the technologies and tools I love to work with:
 
 
 <!--
-### 📊 GitHub Stats
+#### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akirusprod&show_icons=true&theme=radical)
 -->
@@ -77,16 +77,16 @@ Here are some of the technologies and tools I love to work with:
 -->
 
 <!--
-## 🏆 My GitHub Achievements
+### 🏆 My GitHub Achievements
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
 -->
 
-### 📫 Contact Me
+#### 📫 Contact Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akirus/) or [Telegram](https://t.me/akimovr). I'm always open to interesting discussions, collaboration, and new opportunities!
 
-### 🌐 Website
+#### 🌐 Website
 
 Check out my personal website [here](https://akirusprod.github.io/) for more information about me and my projects.
 
