@@ -99,7 +99,15 @@ Here are some of the technologies and tools I love to work with:
 
 #### 📫 Contact Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akirus/) or [Telegram](https://t.me/akimovr). I'm always open to interesting discussions, collaboration, and new opportunities!
+   
+<a href="https://www.linkedin.com/in/akirus">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on Linkedin" >
+</a>
+<a href="https://t.me/akimovr">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Connect with me on Telegram" >
+</a>    
+
+Feel free to connect with me on  the social media. I'm always open to interesting discussions, collaboration, and new opportunities!
 
 #### 🌐 Website
 
