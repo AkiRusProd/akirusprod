@@ -1,12 +1,12 @@
 <!-- <img align = right src="https://github-readme-stats.vercel.app/api?username=akirusprod&show_icons=true&hide_border=false&theme=github_dark#gh-dark-mode-only" alt="Your GitHub stats" width="40%" /> -->
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img align = right src="https://github-readme-stats.vercel.app/api?username=akirusprod&show_icons=true&hide_border=false&theme=default#gh-light-mode-only" width = "40%" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img align = right src="https://github-readme-stats.vercel.app/api?username=akirusprod&show_icons=true&hide_border=false&theme=github_dark#gh-dark-mode-only" width = "40%" />
 </a>
-
+-->
 
 ### Hi there 👋
 
@@ -29,15 +29,22 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm passionate about ML. Here you'll find a collection of my projects, contributions, and explorations in the world of Machine Learning.
 
-
-
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img src="https://github-readme-stats.vercel.app/api?username=akirusprod&show_icons=true&hide_border=false&theme=default#gh-light-mode-only" width = "40%" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img src="https://github-readme-stats.vercel.app/api?username=akirusprod&show_icons=true&hide_border=false&theme=github_dark#gh-dark-mode-only" width = "40%" />
+</a>
+</p>
+<!--
 #### 🔭 Projects
 
 - [numpy-nn-model](https://github.com/AkiRusProd/numpy-nn-model): Сustom torch style machine learning framework with automatic differentiation implemented on numpy.
 - [numpy-diffusion](https://github.com/AkiRusProd/numpy-diffusion): Numpy Denoising Diffusion Probabilistic Model (DDPM) implementation
 - [numpy-transformer](https://github.com/AkiRusProd/numpy-transformer): Numpy implementation of the Transformer model in "Attention is All You Need".
 
-<!--
+
 ### 🌱 Technologies
 
 I work with a range of technologies and tools, including:
