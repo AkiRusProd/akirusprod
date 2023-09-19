@@ -140,3 +140,13 @@ Feel free to connect with me on  the social media. I'm always open to interestin
 
 Check out my personal website [here](https://akirusprod.github.io/) for more information about me and my projects.
 
+#### 🌶️ Currently working at
+
+<a href="https://github.com/AkiRusProd/long-term-memory-llm#gh-light-mode-only">
+<img align = left src="https://github-readme-stats.vercel.app/api/pin/?username=akirusprod&repo=long-term-memory-llm&show_icons=true&hide_border=false&theme=default#gh-light-mode-only" width = "40%" />
+</a>
+<a href="https://github.com/AkiRusProd/long-term-memory-llm#gh-dark-mode-only">
+<img align = left src="https://github-readme-stats.vercel.app/api/pin/?username=akirusprod&repo=long-term-memory-llm&show_icons=true&hide_border=false&theme=github_dark#gh-dark-mode-only" width = "40%" />
+</a>
+
+
