@@ -140,6 +140,10 @@ Feel free to connect with me on  the social media. I'm always open to interestin
 
 Check out my personal website [here](https://akirusprod.github.io/) for more information about me and my projects.
 
+#### 🤗 Contributions
+
+Contributed to the [huggingface/cookbook](https://github.com/huggingface/cookbook) and authored of the [*"Images Interpolation with Stable Diffusion"*](https://github.com/huggingface/cookbook/blob/main/notebooks/en/stable_diffusion_interpolation.ipynb) Notebook.
+
 #### 🌶️ Currently working at
 
 <a href="https://github.com/AkiRusProd/llm-agent#gh-light-mode-only">
