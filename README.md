@@ -142,7 +142,8 @@ Check out my personal website [here](https://akirusprod.github.io/) for more inf
 
 #### 🤗 Contributions
 
-Contributed to the [huggingface/cookbook](https://github.com/huggingface/cookbook) and authored of the [*"Images Interpolation with Stable Diffusion"*](https://github.com/huggingface/cookbook/blob/main/notebooks/en/stable_diffusion_interpolation.ipynb) Notebook. Here is the [**Link**](https://huggingface.co/learn/cookbook/stable_diffusion_interpolation) to Hugging Face post.
+Contributed to the [huggingface/cookbook](https://github.com/huggingface/cookbook) and authored of the [*"Images Interpolation with Stable Diffusion"*](https://github.com/huggingface/cookbook/blob/main/notebooks/en/stable_diffusion_interpolation.ipynb) Notebook. \
+Here is the [**Link**](https://huggingface.co/learn/cookbook/stable_diffusion_interpolation) to Hugging Face post.
 
 #### 🌶️ Currently working at
 
