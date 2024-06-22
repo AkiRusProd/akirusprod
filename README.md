@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 Welcome to my GitHub profile! I'm passionate about ML. Here you'll find a collection of my projects, contributions, and explorations in the world of Machine Learning.
-
+<!--
 #### 🌱 Tech Stack    
 <details> <summary>I work with a range of technologies and tools, including:</summary>
 
@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm passionate about ML. Here you'll find a collec
 <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </details>
-
+-->
 
 
 <!--
