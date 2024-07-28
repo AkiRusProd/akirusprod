@@ -145,13 +145,20 @@ Check out my personal website [here](https://akirusprod.github.io/) for more inf
 Contributed to the [huggingface/cookbook](https://github.com/huggingface/cookbook) and authored of the [*"Images Interpolation with Stable Diffusion"*](https://github.com/huggingface/cookbook/blob/main/notebooks/en/stable_diffusion_interpolation.ipynb) Notebook. \
 Here is the [**Link**](https://huggingface.co/learn/cookbook/stable_diffusion_interpolation) to Hugging Face post.
 
-#### 🌶️ Currently working at
+#### 🌶️ Some Projects
 
 <a href="https://github.com/AkiRusProd/llm-agent#gh-light-mode-only">
 <img align = left src="https://github-readme-stats.vercel.app/api/pin/?username=akirusprod&repo=llm-agent&show_icons=true&hide_border=false&theme=default#gh-light-mode-only" width = "40%" />
 </a>
 <a href="https://github.com/AkiRusProd/llm-agent#gh-dark-mode-only">
 <img align = left src="https://github-readme-stats.vercel.app/api/pin/?username=akirusprod&repo=llm-agent&show_icons=true&hide_border=false&theme=github_dark#gh-dark-mode-only" width = "40%" />
+</a>
+
+<a href="https://github.com/AkiRusProd/reinforcement-learning#gh-light-mode-only">
+<img align = left src="https://github-readme-stats.vercel.app/api/pin/?username=akirusprod&repo=reinforcement-learning&show_icons=true&hide_border=false&theme=default#gh-light-mode-only" width = "40%" />
+</a>
+<a href="https://github.com/AkiRusProd/reinforcement-learning#gh-dark-mode-only">
+<img align = left src="https://github-readme-stats.vercel.app/api/pin/?username=akirusprod&repo=reinforcement-learning&show_icons=true&hide_border=false&theme=github_dark#gh-dark-mode-only" width = "40%" />
 </a>
 
 
