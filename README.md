@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-Welcome to my GitHub profile! I'm passionate about ML. Here you'll find a collection of my projects, contributions, and explorations in the world of Machine Learning.
+Welcome to my GitHub profile.
 <!--
 #### 🌱 Tech Stack    
 <details> <summary>I work with a range of technologies and tools, including:</summary>
@@ -134,12 +134,13 @@ Here are some of the technologies and tools I love to work with:
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Connect with me on Telegram" >
 </a>    
 
+<!--
 Feel free to connect with me on  the social media. I'm always open to interesting discussions, collaboration, and new opportunities!
 
 #### 🌐 Website
 
 Check out my personal website [here](https://akirusprod.github.io/) for more information about me and my projects.
-
+-->
 #### 🤗 Contributions
 
 Contributed to the [huggingface/cookbook](https://github.com/huggingface/cookbook) and authored of the [*"Images Interpolation with Stable Diffusion"*](https://github.com/huggingface/cookbook/blob/main/notebooks/en/stable_diffusion_interpolation.ipynb) Notebook. \
